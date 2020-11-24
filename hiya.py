@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-print("Hello, World!")
+my_names = ['World']
+
+for name in my_names:
+    print("Hello, " + name + "!")
